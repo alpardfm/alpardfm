@@ -4,9 +4,9 @@ Now working as Backend Developer, Node js & Golang.
 ### Stats:
  <summary><strong>My short profile</strong></summary>
     - 🔭 I’m currently working as Backend Developer </br>
-    - 🌱 I’m currently learning Golang, Flutter, Vue js </br>
+    - 🌱 I’m currently learning Golang, Node Js, PHP </br>
     - 👯 Now I am also studying at the Malang State Polytechnic, majoring in Diploma 3 Information Management</br>
-    - 🤔 Although in my office as a backend developer. but in my campus as a fullstack developer, Laravel & Java Desktop. hehe </br>
+    - 🤔 Although in my office as a backend developer. but in my campus as a fullstack developer, I often accept free jobs to make simple applications for tasks or mid-to-low-end companies. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:tokferdian100@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
