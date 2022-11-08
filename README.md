@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tokferdian100@gmail.com**
 
-- ⚡ Fun fact **I'm Quiet When I Meet New People, But I'm Humorous When I Meet**
+- ⚡ Interesting fact about me is **that I'm quiet when I meet new people, but I'm funny when I've known them for a long time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
