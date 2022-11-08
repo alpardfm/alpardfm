@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/alpardfm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpardfm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ferdian moch alfa ryandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdian moch alfa ryandani" height="30" width="40" /></a>
-<a href="https://fb.com/moch alfa ryandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ferdianmar" height="30" width="40" /></a>
+<a href="https://fb.com/ferdianmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ferdianmar" height="30" width="40" /></a>
 <a href="https://instagram.com/ferdianmarz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferdianmarz" height="30" width="40" /></a>
 </p>
 
