@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/alpardfm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpardfm" height="30" width="40" /></a>
 <a href="https://id.linkedin.com/in/ferdian-moch-alfa-ryandani-928b00235?original_referer=https%3A%2F%2Fwww.google.com%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdian moch alfa ryandani" height="30" width="40" /></a>
-<a href="https://fb.com/alpardfm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ferdianmar" height="30" width="40" /></a>
-<a href="https://instagram.com/ferdianmarz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferdianmarz" height="30" width="40" /></a>
+<a href="https://fb.com/ferdianmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ferdianmar" height="30" width="40" /></a>
+<a href="https://instagram.com/alpardfm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ferdianmarz" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
