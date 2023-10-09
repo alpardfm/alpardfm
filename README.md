@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Anekapay](https://play.google.com/store/apps/details?id=com.anekapay.kiosaneka)
 
-- 🌱 I’m currently learning **Golang, Node JS**
+- 🌱 I’m currently learning **Golang, Node JS, Bash Script**
 
 - 💬 Ask me about **Golang, Node JS, Bash Script, Rest API, Graphql, MYSQL, NoSQL**
 
