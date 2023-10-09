@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang, Node JS**
 
-- 💬 Ask me about **Golang, Node JS, Rest API, Graphql**
+- 💬 Ask me about **Golang, Node JS, Bash Script, Rest API, Graphql, MYSQL, NoSQL**
 
 - 📫 How to reach me **tokferdian100@gmail.com**
 
