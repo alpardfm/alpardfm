@@ -29,19 +29,20 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Tools & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
@@ -50,50 +51,25 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**moneypath-api**](https://github.com/alpardfm/moneypath-api) | Personal finance API — cash flow, wallets, debts & budgets | Go, PostgreSQL |
-| [**moneypath-ui**](https://github.com/alpardfm/moneypath-ui) | Responsive React frontend for Moneypath | React, JavaScript |
-| [**go-toolkit**](https://github.com/alpardfm/go-toolkit) | Production-grade utility packages for Go REST APIs | Go |
-| [**library-management-api**](https://github.com/alpardfm/library-management-api) | Library management system with Clean Architecture | Go |
-| [**cost-aware-backend**](https://github.com/alpardfm/cost-aware-backend) | 30-Day Challenge: Building cost-efficient backend systems | Go |
+| [**moneypath-api**](https://github.com/alpardfm/moneypath-api) | Personal finance API — wallets, mutations, debts & budgets | Go, PostgreSQL, Docker |
+| [**haze-api**](https://github.com/alpardfm/haze-api) | Admin scheduling & reminder — zero framework, pure stdlib | Go, PostgreSQL |
+| [**go-toolkit**](https://github.com/alpardfm/go-toolkit) | Production-grade utility library for Go REST APIs | Go |
+| [**library-management-api**](https://github.com/alpardfm/library-management-api) | Library system with Clean Architecture, RBAC & tests | Go, Gin, GORM |
+| [**cost-efficient-go**](https://github.com/alpardfm/cost-efficient-go) | Performance optimization patterns with benchmarks & cost analysis | Go |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/alpardfm">
-    <img src="https://streak-stats.demolab.com/?user=alpardfm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alpardfm">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpardfm&theme=tokyonight" alt="Profile Details"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alpardfm">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alpardfm&theme=tokyonight" alt="Stats" height="165"/>
-  </a>
-  <a href="https://github.com/alpardfm">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alpardfm&theme=tokyonight" alt="Top Languages" height="165"/>
-  </a>
-</p>
+**Full-stack pairs:**
+- moneypath-api + [moneypath-ui](https://github.com/alpardfm/moneypath-ui) (React)
+- haze-api + [haze-ui](https://github.com/alpardfm/haze-ui) (React + TypeScript)
 
 ---
 
 ## 🏗️ What I'm Working On
 
-- 🔨 Building & maintaining [go-toolkit](https://github.com/alpardfm/go-toolkit) — reusable Go packages for backend services
+- 🔨 Building & maintaining [go-toolkit](https://github.com/alpardfm/go-toolkit) — reusable Go packages used across my projects
 - 💰 Developing [Moneypath](https://github.com/alpardfm/moneypath-api) — a full-stack personal finance platform
-- 📚 Exploring system design patterns and cost optimization strategies
+- ⚡ Documenting [cost-efficient patterns](https://github.com/alpardfm/cost-efficient-go) in Go with real benchmarks
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alpardfm&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
 
 <p align="center">
   <em>"Write code that your future self will thank you for."</em>
