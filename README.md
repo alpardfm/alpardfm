@@ -51,11 +51,12 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**go-cost-analyzer**](https://github.com/alpardfm/go-cost-analyzer) | CLI tool that scores Go project cost-efficiency (20 AST-based detectors) | Go |
+| [**cost-efficient-go**](https://github.com/alpardfm/cost-efficient-go) | Importable library of performance pattern detectors with benchmarks | Go |
 | [**moneypath-api**](https://github.com/alpardfm/moneypath-api) | Personal finance API — wallets, mutations, debts & budgets | Go, PostgreSQL, Docker |
 | [**haze-api**](https://github.com/alpardfm/haze-api) | Admin scheduling & reminder — zero framework, pure stdlib | Go, PostgreSQL |
 | [**go-toolkit**](https://github.com/alpardfm/go-toolkit) | Production-grade utility library for Go REST APIs | Go |
 | [**library-management-api**](https://github.com/alpardfm/library-management-api) | Library system with Clean Architecture, RBAC & tests | Go, Gin, GORM |
-| [**cost-efficient-go**](https://github.com/alpardfm/cost-efficient-go) | Performance optimization patterns with benchmarks & cost analysis | Go |
 
 **Full-stack pairs:**
 - moneypath-api + [moneypath-ui](https://github.com/alpardfm/moneypath-ui) (React)
@@ -65,9 +66,10 @@
 
 ## 🏗️ What I'm Working On
 
+- 🔍 Building [go-cost-analyzer](https://github.com/alpardfm/go-cost-analyzer) — CLI tool for detecting cost-efficiency anti-patterns in Go projects
+- ⚡ Maintaining [cost-efficient-go](https://github.com/alpardfm/cost-efficient-go) — importable detection library with 20 pattern detectors
 - 🔨 Building & maintaining [go-toolkit](https://github.com/alpardfm/go-toolkit) — reusable Go packages used across my projects
 - 💰 Developing [Moneypath](https://github.com/alpardfm/moneypath-api) — a full-stack personal finance platform
-- ⚡ Documenting [cost-efficient patterns](https://github.com/alpardfm/cost-efficient-go) in Go with real benchmarks
 
 ---
 
